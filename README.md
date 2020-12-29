@@ -14,6 +14,7 @@ The repository is organized per radar type where acquisition, processing, and re
 Model / Manufacturing Brand
 
 X4 / NOVELDA SA
+
 IWR / TEXAS INSTRUMENTS
 
 ## Versioning
