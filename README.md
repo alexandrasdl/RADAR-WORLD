@@ -27,4 +27,5 @@ IWR / TEXAS INSTRUMENTS
 
 ## Acknowledgments
 
-* To use and share
+This repository resulted from the work developed in master-thesis work intituled as "Bio-Radar Applications for Remote Vital Signs
+Monitoring" and available on: *link soon*
